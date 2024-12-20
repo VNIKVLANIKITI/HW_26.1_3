@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "51a06da0-406d-43c2-a86c-a9f894a702d0",
+		"name": "Stripe",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36507169"
+	},
+	"item": [
+		{
+			"name": "Pay",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Price",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Product",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
